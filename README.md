@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Development flow
+
+- 💻 IDE: VSCode -> NeoVim
+- 📌 Ver Control: Git Bash
+- 🛠️ Bash Profile: [dotfiles](https://github.com/karezachen/dotfiles)
