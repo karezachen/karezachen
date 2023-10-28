@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, #ff4d4f, #ffa940, #ffec3d, #73d13d);
+    color: #1677ff;
+    /* font-family: Arial, sans-serif; */
+    font-family: 'Noto Serif SC', serif;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+a {
+    color: #1677ff;
+}
+
+a:hover {
+    text-decoration: none;
+}
