@@ -11,10 +11,9 @@
 - 🌟🌟🌟 对区块链技术有深入的了解
 - 🌟🌟🌟🌟 熟悉链上数据的结构，熟悉链上数据的本地存储和查找，有后端开发经验
 
+<img src="wechat.png" width="50%">
 
-<img src="/images/wechat.png" width="50%">
-
-## Contributor
+## 🔔 Contributor
 
 - [prometheus/client_python](https://github.com/prometheus/client_python)
 - [apache/dubbo-website](https://github.com/apache/dubbo-website)
